@@ -192,7 +192,7 @@ import chili from "./assets/chili.jpg";
                                     <h2 className="px-2 md:px-6 pt-4 md:pt-6 uppercase font-bebas tracking-[6px] text-[7vw] md:text-[30px] mb-3 text-green-200">Mamita</h2>
                                     <h2 className="mx-2 md:mx-4 text-[8vw] md:text-[45px]">🩷</h2>
                                 </div>
-                                <p className="px-2 md:px-4 justify-center font-fraunces text-[5vw] md:text-[14px] text-green-100">Y un mensajito proveniente de tu progenitora la mamá original. Con mucho amor para su pequeña hijita.</p>
+                                <p className="px-2 md:px-4 justify-center font-fraunces text-[5vw] md:text-[14px] text-green-100">Y un mensajito proveniente de tu progenitora la mamá original cero copias. Con mucho amor para su pequeña hijita.</p>
                                 <button id="mamita" onClick={() => setOpenModal('mamita')} className="text-center py-2 bg-green-300/80 uppercase font-bebas text-[5vw] md:text-[16px] tracking-[4px] md:tracking-[6px] mt-2 text-green-100">Dame click</button>
                                 {openModal === 'mamita' && (
                                     <div className="fixed inset-0 z-50 flex items-center justify-center bg-green-900 bg-opacity-40 p-2 md:p-0">
