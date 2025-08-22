@@ -58,7 +58,7 @@ function TarjetaCumple() {
                                     </h3>
                             
 
-                                    <div className="flex w-full mt-4 backdrop-blur-2xl bg-yellow-600/20 border-2 border-yellow-300 rounded-full overflow-hidden ">
+                                    <div className="flex w-full mt-4 backdrop-blur-2xl bg-yellow-600/20 border-2 border-yellow-400 rounded-full overflow-hidden ">
                                         <img className="h-[full] w-[200px]" src={lali} alt="" />
                                         <h1 className="font-edu text-yellow-100 p-10 text-center pt-12">Miau miau miau miau miau miau miau miau miau. Miau miau miau miau miau miau miau miau miau miau!!! miau miau miau miau miau miau miau. Miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau. "Miau miau miau miau miau miau miau miau" miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau. <br />Miau miau miau miau miau 💛</h1>
                                     </div>
